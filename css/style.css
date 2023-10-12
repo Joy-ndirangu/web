@@ -1,0 +1,27 @@
+body{
+    background-color: darkgrey;
+}
+a{
+    text-decoration: none;
+}
+a:hover {
+    background: white;
+    color: crimson;
+    font-family: Arial;
+
+}
+table, tr, td,th{
+            border:indianred 3px solid;
+            border-collapse: collapse;
+        }
+        thead, tfoot{
+            background-color: dimgray;
+        }
+        .one {
+            background-color: aqua;
+            }
+        tr:hover{
+            background-color: chartreuse;
+            cursor: pointer;
+            font-size: 20px;
+        }

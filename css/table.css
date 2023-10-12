@@ -1,0 +1,19 @@
+body{
+    background-color: whitesmoke;
+    font-family: Arial;
+}
+.teams{
+     font-family: Arial, Helvetica, sans-serif;
+     border-collapse: collapse;
+     width: 100%;
+}
+td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+.teams th{
+    padding: 12px 0;
+    text-align: left;
+    background-color: #04aa6d;
+    color: white;
+}

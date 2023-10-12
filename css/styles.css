@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(to bottom right , #0EDAF7, #B6DEE4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+input   {
+    border: black 3px solid;
+    border-radius: 5px;
+}
+input:hover{
+    background: aquamarine;
+    color: white;
+}
+
+button:hover{
+    background: darkgrey;
+    color: white;
+    cursor: pointer;
+}
